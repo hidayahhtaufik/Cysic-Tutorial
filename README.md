@@ -1,4 +1,4 @@
-# Cysic Incentivized Testnet Phase 1 Verifier Setup
+# Cysic Incentivized Testnet Verifier Setup
 
 This guide will walk you through setting up a verifier node for the Cysic Incentivized Testnet Phase 1. Follow the instructions below to configure and run the verifier on your VPS.
 
